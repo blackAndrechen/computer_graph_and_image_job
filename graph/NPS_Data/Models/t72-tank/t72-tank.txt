@@ -1,0 +1,16 @@
+This represents "t72-tank_ok.flt" others are similar.
+
+Units: meters
+
+DOF: "rldof", "rrdof", "fldof", "frdof", "turret"
+LOD 1: 
+	-triangles:	35
+	-Switch in: 	6400
+LOD 1: 
+	-triangles:	308
+	-Switch in: 	500
+LOD 1: 
+	-triangles:	484
+	-Switch in: 	200
+
+Texture Mem (kb):	3112
