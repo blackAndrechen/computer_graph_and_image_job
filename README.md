@@ -1,3 +1,9 @@
+### 求star！求star！求star！
+
+
+
+
+
 # computer_graph_and_image_job
 
 > 这个仓库是计算机图形学的结课作业
@@ -26,7 +32,7 @@ NPS_Data里装的是模型文件包括地形、坦克各部件等.
 - myTankv5.cpp:新增坦克运动的扬尘特效
 - myTankv6.cpp:新增坦克发射子弹功能，子弹发射时的枪口火焰，子弹落地时的爆炸特效
 - myTankv7.cpp:新增敌军，静止敌军和运动敌军，静止敌军位置随机
-- myTankv8.cpp:新增HUD界面提示i
+- myTankv8.cpp:新增HUD界面提示
 
 
 
